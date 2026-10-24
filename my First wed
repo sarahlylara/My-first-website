@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sustainable Living &amp; Gardening Guide</title>
+</head>
+<body>
+
+  <!-- Header Section -->
+  <header>
+    <h1>Sustainable Living Guide</h1>
+    <p>Simple steps toward a lower footprint and a greener home.</p>
+    
+    <!-- Navigation -->
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#practices">Core Practices</a></li>
+        <li><a href="#resources">Getting Started</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Main Content Area -->
+  <main>
+
+    <!-- Section 1: About -->
+    <section id="about">
+      <h2>About Sustainable Living</h2>
+      <p>Sustainable living is a lifestyle that attempts to reduce an individual's or society's use of the Earth's natural resources and personal resources. Practitioners often attempt to reduce their carbon footprint by altering methods of transportation, energy consumption, and diet.</p>
+      
+      <figure>
+        <img src="https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?auto=format&fit=crop&w=800&q=80" alt="Lush green vegetable garden growing in raised wooden beds under sunlight">
+        <figcaption>A thriving backyard organic garden reducing reliance on store-bought produce.</figcaption>
+      </figure>
+    </section>
+
+    <!-- Section 2: Core Practices (Demonstrates H1 -> H2 -> H3 hierarchy) -->
+    <section id="practices">
+      <h2>Core Daily Practices</h2>
+      <p>Building sustainable habits takes time. Here are three key areas to focus on first:</p>
+
+      <article>
+        <h3>1. Composting &amp; Soil Health</h3>
+        <p>Organic kitchen scraps make up a large portion of household waste. Diverting them to compost returns vital nutrients to the soil and reduces methane emissions in landfills.</p>
+      </article>
+
+      <article>
+        <h3>2. Energy Conservation</h3>
+        <p>Switching to LED lighting, sealing windows, and utilizing natural sunlight can drastically cut household energy demands.</p>
+      </article>
+
+      <article>
+        <h3>3. Rainwater Harvesting</h3>
+        <p>Collecting rain in barrels or rain gardens reduces strain on municipal water systems and keeps landscape plants thriving during dry spells.</p>
+      </article>
+    </section>
+
+    <!-- Section 3: Getting Started List -->
+    <section id="resources">
+      <h2>First Steps for Beginners</h2>
+      <p>Follow this checklist to start your journey today:</p>
+      
+      <ol>
+        <li>Audit your weekly household trash to identify single-use plastics.</li>
+        <li>Set up a small countertop compost bin for fruit and vegetable scraps.</li>
+        <li>Replace high-frequency incandescent bulbs with LEDs.</li>
+        <li>Start a small herb container garden on a sunlit windowsill.</li>
+      </ol>
+    </section>
+
+  </main>
+
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2026 Sustainable Living Project. Built with clean, semantic HTML.</p>
+  </footer>
+
+</body>
+</html>
